@@ -1,5 +1,6 @@
 # zozoide-game
 Simple two-dimensional game for Windows
+
 Coded from scratch, homemade graphisms. Avoid obstacles !
 
 How to run the game :
